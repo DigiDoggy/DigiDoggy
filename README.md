@@ -72,7 +72,7 @@ A real-time multiplayer game where players control characters and compete using 
 A booking platform for restaurants: table occupancy logic, booking rules, recommendations for guests and restaurant load information. Containerized with **Docker Compose**.
 
 ---
-
+<!--
 ## 📊 GitHub stats
 
 <div align="center">
@@ -80,6 +80,7 @@ A booking platform for restaurants: table occupancy logic, booking rules, recomm
 </div>
 
 ---
+-->
 
 <div align="center">
 
