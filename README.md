@@ -65,13 +65,6 @@ A web app for meeting new people: recommended profiles, friends, photo uploads a
 A real-time multiplayer game where players control characters and compete using flashlights, bonuses and special abilities. Includes a single-player mode with bots.
 
 ---
-
-### 🍽️ [BookTable](https://github.com/DigiDoggy/BookTable) — restaurant table reservation system
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/status-in%20progress-orange?style=flat-square"/>
-
-A booking platform for restaurants: table occupancy logic, booking rules, recommendations for guests and restaurant load information. Containerized with **Docker Compose**.
-
----
 <!--
 ## 📊 GitHub stats
 
